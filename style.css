@@ -1,0 +1,50 @@
+body {
+  background: black;
+  color: red;
+}
+h1{
+  text-align: center;
+}
+h2 {
+text-align: center;
+}
+p {
+text-align: center;
+
+}
+.pro {
+  padding: 40px;0 40px 0;
+  border: solid 2px blue;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+} 
+.circle{
+  margin: 7px;
+  height: 80px;
+  width: 80px;
+  border: solid 5px blue;
+  background-color: #0385;
+  justify-content: center;
+}
+div {
+  display: flex;
+  flex-direction: column;
+  
+}
+#c1 {
+  border-radius: 84px 0px 84px 84px;
+  
+}
+#c0 {
+  border-radius: 84px 84px 0px 84px;
+}
+#c2 {
+  border-radius: 84px 84px 84px 0px;
+}
+#c3 {
+  border-radius: 0px 84px 84px 84px;
+  
+}
+  
